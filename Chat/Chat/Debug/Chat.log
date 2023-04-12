@@ -1,0 +1,6 @@
+﻿  chat.cpp
+  chat_main.cpp
+  Создание кода...
+C:\Users\Илья\Desktop\C++\Home work\Chat\Chat\chat.cpp(149): warning C4715: Chat::GetLoginByUserName: значение возвращается не при всех путях выполнения
+C:\Users\Илья\Desktop\C++\Home work\Chat\Chat\chat.cpp(162): warning C4715: Chat::GetNameByLogin: значение возвращается не при всех путях выполнения
+  Chat.vcxproj -> C:\Users\Илья\Desktop\C++\Home work\Chat\Debug\Chat.exe
